@@ -4,7 +4,7 @@
 
 ---------------------------------------------------------------------
 
-## Slices
+# Maps
 
 * Maps are another composite type in Go programming language. Working principle of maps depends on **key** and **value** like Python.
 * **Key** and **value** types should be decleared while defining a map.
